@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 1 / 238 (0.4%)
+- **Completed:** 2 / 238 (0.8%)
 
 ---
 
@@ -166,7 +166,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Score of a String
 - [ ] Reverse String
 - [ ] Truncate Sentence
-- [ ] To Lower Case
+- [x] [To Lower Case](./Java/Easy/709. To Lower Case/)
 - [ ] Remove Trailing Zeros
 - [ ] Senior Citizens Count
 - [ ] Number of Segments in a String
