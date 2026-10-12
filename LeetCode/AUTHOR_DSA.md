@@ -166,7 +166,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Score of a String
 - [ ] Reverse String
 - [ ] Truncate Sentence
-- [x] [To Lower Case](./Java/Easy/709. To Lower Case/)
+- [x] [To Lower Case](./Java/Easy/742. To Lower Case/)
 - [ ] Remove Trailing Zeros
 - [ ] Senior Citizens Count
 - [ ] Number of Segments in a String
