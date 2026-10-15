@@ -8,8 +8,8 @@
 Array, Hash Table, Binary Indexed Tree, Segment Tree
 
 ### 🚀 Performance
-- **Runtime:** 10 ms
-- **Memory:** 46.3 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
